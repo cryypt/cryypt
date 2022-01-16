@@ -2,7 +2,4 @@
 - I’m interested in Anti Cheat Developement
 - I’m currently learning C++
 
-<!---
-cryypt/cryypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Cryypt's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryypt&show_icons=true&theme=synthwave)
